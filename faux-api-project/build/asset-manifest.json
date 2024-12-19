@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tattybubutashtanova/faux-api.git/static/css/main.613f032b.css",
+    "main.js": "/tattybubutashtanova/faux-api.git/static/js/main.c5778621.js",
+    "static/js/156.2338b137.chunk.js": "/tattybubutashtanova/faux-api.git/static/js/156.2338b137.chunk.js",
+    "index.html": "/tattybubutashtanova/faux-api.git/index.html",
+    "main.613f032b.css.map": "/tattybubutashtanova/faux-api.git/static/css/main.613f032b.css.map",
+    "main.c5778621.js.map": "/tattybubutashtanova/faux-api.git/static/js/main.c5778621.js.map",
+    "156.2338b137.chunk.js.map": "/tattybubutashtanova/faux-api.git/static/js/156.2338b137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.613f032b.css",
+    "static/js/main.c5778621.js"
+  ]
+}

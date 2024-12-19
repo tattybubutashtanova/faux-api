@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ff8ba7;
+    padding: 10px 20px;
+    border-bottom: 2px solid #ffb3c6;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-link {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .nav-link:hover {
+    color: #ffe5ec;
+  }
+  
+  .controls {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .search-input, .filter-dropdown {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+  }
+  
+  .search-input:focus, .filter-dropdown:focus {
+    border-color: #ff6b8b;
+  }
+  
